@@ -145,8 +145,18 @@ p{
 	padding: 7% 15%;
 	text-align: center;
 }
+
 .social-icon{
 	margin: 20px 10px;
+}
+
+.footer-links{
+	text-decoration: none;
+	color: #000000;
+}
+
+.footer-links:hover{
+	color: #ff4c68;
 }
 
 @media (max-width: 1028px){
